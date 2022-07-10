@@ -1,1 +1,1 @@
-# cnflcttest
+# cnflcttest -A
